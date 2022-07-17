@@ -1,1 +1,1 @@
-npm start - запуск
+!!npm start - запуск!!
